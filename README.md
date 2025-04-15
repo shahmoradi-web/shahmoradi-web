@@ -9,7 +9,7 @@ class PersoalInformation:
     self.Hoby = Hoby
 
 PersoalInformation(
-university = "Student of Computer Sient in University"
+university = "Student of Computer science in University"
 Tecnology = "I have intermediate knowledge of Python and Django framework. I have relative proficiency in HTML and CSS. I have worked with Git and GitFlow."
 Learning = "I am learning Docker."
 Hoby = "Coding and Diriking Cofe"
