@@ -1,16 +1,16 @@
-## Hi there 👋
+```python
+class PersoalInformation:
+  def __init__(self , university, Tecnology, Learning, Hoby):
+    self.university = university
+    self.Tecnology = Tecnology
+    self.Learning = Learning
+    self.Hoby = Hoby
 
-<!--
-**shahmoradi-web/shahmoradi-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PersoalInformation(
+university = "Student of Computer Sient in University"
+Tecnology = "I have intermediate knowledge of Python and Django framework. I have relative proficiency in HTML and CSS. I have worked with Git and GitFlow."
+Learning = "I am learning Docker."
+Hoby = "Coding and Diriking Cofe"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+)
+```
