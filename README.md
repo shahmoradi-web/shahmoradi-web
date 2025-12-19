@@ -37,3 +37,12 @@ me = Developer()
 print(me.about())
 
 ```
+
+### 🛠 Skills
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![Django](https://img.shields.io/badge/Django-Intermediate-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Basic-blue)
+![Docker](https://img.shields.io/badge/Docker-Basic-lightgrey)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-Knowledge-orange)
+![HTML](https://img.shields.io/badge/HTML-Basic-orange)
+![CSS](https://img.shields.io/badge/CSS-Basic-blue)
