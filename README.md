@@ -26,11 +26,10 @@ class Developer:
                 "Deployment": "Railway (Free Tier)"
             },
             "Testing": {
-                "Unit Testing": "Good understanding"
+                "Unit Testing": "Intermediate"
             },
             "Other": {
-                "GIS": "Basic",
-                "Git": "Daily usage"
+                "Git and GitFlow": "Basic"
             }
         }
 
