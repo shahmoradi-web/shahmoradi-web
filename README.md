@@ -1,3 +1,6 @@
+### 👋 Hi, I'm Narges Shahmoradi
+**Python & Django Developer** | Always Learning 🚀
+
 <h1>About Me</h1>
 
 ```python
