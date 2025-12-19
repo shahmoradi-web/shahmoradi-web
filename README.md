@@ -5,64 +5,32 @@ class Developer:
     def __init__(self):
         self.name = "Narges Shahmoradi"
         self.degree = "B.Sc. in Computer Science"
-        self.role = "Backend Developer (Python)"
-        self.mindset = "Always learning, always improving"
-        self.current_focus = "Leveling up my current project"
+        self.focus = "Improving and leveling up my current project"
+        self.mindset = "Always learning"
 
         self.skills = {
-            "Languages": {
-                "Python": "Intermediate",
-                "HTML": "Basic",
-                "CSS": "Basic"
-            },
-            "Frameworks": {
-                "Django": "Intermediate"
-            },
-            "Databases": {
-                "PostgreSQL": "Basic"
-            },
-            "DevOps": {
-                "Docker": "Basic",
-                "Deployment": "Railway (Free Tier)"
-            },
-            "Testing": {
-                "Unit Testing": "Intermediate"
-            },
-            "Other": {
-                "Git and GitFlow": "Basic"
-            }
+            "Python": "Intermediate",
+            "Django": "Intermediate",
+            "PostgreSQL": "Basic",
+            "Docker": "Basic",
+            "Unit Testing": "Intermediate",
+            "HTML": "Intermediate",
+            "CSS": "Basic"
+            "GIT And GitFlow": "Basic"
         }
 
-        self.interests = [
-            "Backend Development",
-            "Clean Code",
-            "Testing",
-            "Project-based Learning",
-            "Improving Software Quality"
-        ]
+        self.language = "English (Intermediate)"
 
-        self.language = {
-            "English": "Intermediate"
-        }
-
-    def about_me(self):
+    def about(self):
         return (
-            f"Hi, I'm {self.name} 👋\n"
-            f"I have a {self.degree} and work mainly with Python and Django.\n"
-            f"My current focus is on {self.current_focus}.\n"
-            f"My mindset: {self.mindset}."
+            f"{self.name} | Python & Django Developer\n"
+            f"🎓 {self.degree}\n"
+            f"🎯 Focus: {self.focus}\n"
+            f"💡 Mindset: {self.mindset}"
         )
 
-    def show_skills(self):
-        return self.skills
 
-    def get_interests(self):
-        return self.interests
+me = Developer()
+print(me.about())
 
-if __name__ == "__main__":
-    me = Developer()
-    print(me.about_me())
-
-
-)
 ```
