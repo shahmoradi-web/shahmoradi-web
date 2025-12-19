@@ -46,3 +46,15 @@ print(me.about())
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-Knowledge-orange)
 ![HTML](https://img.shields.io/badge/HTML-Basic-orange)
 ![CSS](https://img.shields.io/badge/CSS-Basic-blue)
+
+### 🎯 Current Focus
+- Improving and leveling up a **Django-based project**
+- Writing **cleaner code** and **better tests**
+- Gaining more hands-on backend experience
+
+### ☁️ Deployment
+- Deployed projects using **Railway (Free Tier)**
+
+### 📚 Mindset
+- Always learning and improving step by step
+- Interested in backend development and software quality
