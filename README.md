@@ -16,6 +16,7 @@ class Developer:
             "Django": "Intermediate",
             "PostgreSQL": "Basic",
             "Docker": "Basic",
+            "Rest API": "Basic"
             "Unit Testing": "Intermediate",
             "HTML": "Intermediate",
             "CSS": "Basic"
